@@ -5,11 +5,24 @@ export const projects = [
         title: "SCHOOLEDAFRIKA",
         githubLink: "https://github.com/SchooledAfrika/lmsapp.git",
         webLink: "https://www.schooledafrika.com/"
+
+        
       
       
     },
     {
         id: "project-2",
+        icon: "/portfolio.png",
+        title: "PORTFOLIO-UPDATED",
+        githubLink: "https://github.com/odomaurice/portfolio-update.git",
+        webLink: "https://alphacodez.vercel.app/"
+     
+       
+      
+      
+    },
+    {
+        id: "project-3",
         icon: "/cyberpatron.jpg",
         title: "CYBERPATRON-UPDATED",
         githubLink: "https://github.com/odomaurice/cyberpatron.git",
@@ -20,7 +33,7 @@ export const projects = [
       
     },
     {
-        id: "project-3",
+        id: "project-4",
         icon: "/portfolio.png",
         title: "PORTFOLIO",
         githubLink: "https://github.com/odomaurice/Portfolio_next.git",
@@ -29,7 +42,7 @@ export const projects = [
       
     },
     {
-        id: "project-4",
+        id: "project-5",
         icon: "/cyberpatron.jpg",
         title: "CYBERPATRON",
         githubLink: "https://github.com/odomaurice/cyberpatron.git",
@@ -37,7 +50,7 @@ export const projects = [
        
     },
     {
-        id: "project-5",
+        id: "project-6",
         icon: "/techuni.svg",
         title: "TECHUNI",
         githubLink: "https://github.com/odomaurice/TechUni-project.git",
@@ -47,7 +60,7 @@ export const projects = [
      
     },
     {
-        id: "project-6",
+        id: "project-7",
         icon: "/locum.png",
         title: "LOCUMDOC",
         githubLink: "https://github.com/odomaurice/locumdoc.git",
