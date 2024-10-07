@@ -4,7 +4,8 @@ export const projects = [
         icon: "/school.png",
         title: "SCHOOLEDAFRIKA",
         githubLink: "https://github.com/SchooledAfrika/lmsapp.git",
-        webLink: "https://www.schooledafrika.com/"
+        webLink: "https://www.schooledafrika.com/",
+        link: "https://www.schooledafrika.com/"
 
         
       
@@ -15,7 +16,8 @@ export const projects = [
         icon: "/portfolio.png",
         title: "PORTFOLIO-UPDATED",
         githubLink: "https://github.com/odomaurice/portfolio-update.git",
-        webLink: "https://alphacodez.vercel.app/"
+        webLink: "https://alphacodez.vercel.app/",
+        link: "#"
      
        
       
@@ -26,7 +28,8 @@ export const projects = [
         icon: "/cyberpatron.jpg",
         title: "CYBERPATRON-UPDATED",
         githubLink: "https://github.com/odomaurice/cyberpatron.git",
-        webLink: "https://cyberpatronnetwork.netlify.app/"
+        webLink: "https://cyberpatronnetwork.netlify.app/",
+        link: "https://cyberpatronnetwork.netlify.app/"
      
        
       
@@ -37,7 +40,9 @@ export const projects = [
         icon: "/portfolio.png",
         title: "PORTFOLIO",
         githubLink: "https://github.com/odomaurice/Portfolio_next.git",
-        webLink: "https://mauricedev.vercel.app/"
+        webLink: "https://mauricedev.vercel.app/",
+        link: "https://mauricedev.vercel.app/"
+
         
       
     },
@@ -46,7 +51,8 @@ export const projects = [
         icon: "/cyberpatron.jpg",
         title: "CYBERPATRON",
         githubLink: "https://github.com/odomaurice/cyberpatron.git",
-        webLink: "https://cyberpatron.netlify.app/"
+        webLink: "https://cyberpatron.netlify.app/",
+        link: "https://cyberpatron.netlify.app/"
        
     },
     {
@@ -54,7 +60,8 @@ export const projects = [
         icon: "/techuni.svg",
         title: "TECHUNI",
         githubLink: "https://github.com/odomaurice/TechUni-project.git",
-        webLink: "https://techuni.onrender.com/"
+        webLink: "https://techuni.onrender.com/",
+        link: "https://techuni.onrender.com/"
        
         
      
@@ -64,7 +71,8 @@ export const projects = [
         icon: "/locum.png",
         title: "LOCUMDOC",
         githubLink: "https://github.com/odomaurice/locumdoc.git",
-        webLink: "https://locumdoc.onrender.com/"
+        webLink: "https://locumdoc.onrender.com/",
+         link: "https://locumdoc.onrender.com/"
       
     },
     {
@@ -72,7 +80,8 @@ export const projects = [
         icon: "/password.png",
         title: "PASSWORD GENERATOR",
         githubLink: "https://github.com/odomaurice/password-generator_react.git",
-        webLink: "https://dancing-sprinkles-588ac2.netlify.app/"
+        webLink: "https://dancing-sprinkles-588ac2.netlify.app/",
+        link: "https://dancing-sprinkles-588ac2.netlify.app/"
       
     },
     {
@@ -80,7 +89,8 @@ export const projects = [
         icon: "/weather.png",
         title: "WEATHER PROJECT",
         githubLink: "https://github.com/odomaurice/React_weather_app.git",
-        webLink: "https://fancy-kangaroo-b088ae.netlify.app/"
+        webLink: "https://fancy-kangaroo-b088ae.netlify.app/",
+        link: "https://fancy-kangaroo-b088ae.netlify.app/"
       
     },
     {
@@ -88,7 +98,8 @@ export const projects = [
         icon: "/alpha.png",
         title: "ALPHA FATLOSS",
         githubLink: "https://github.com/odomaurice/Alpha-fatloss.git",
-        webLink: "https://odomaurice.github.io/Alpha-energy/index.html"
+        webLink: "https://odomaurice.github.io/Alpha-energy/index.html",
+        link: "https://odomaurice.github.io/Alpha-energy/index.html"
      
     },
     

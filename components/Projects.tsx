@@ -11,10 +11,11 @@ interface Props {
   title: string;
   githubLink: string;
   webLink: string;
+  link: string;
   index: number;
 }
 
-const ProjectCard = ({ icon, title, githubLink, webLink }: Props) => {
+const ProjectCard = ({ icon, title, githubLink, webLink, link }: Props) => {
   return (
     <div className="relative w-full z-10  font-header rounded-lg bg-white shadow-xl p-6 px-3 flex flex-col justify-evenly gap-3 hover:-translate-y-2 transition-transform duration-300 group">
       <div className="flex justify-between">
@@ -42,7 +43,7 @@ const ProjectCard = ({ icon, title, githubLink, webLink }: Props) => {
           </p>
         </Link>
         <Link
-          href={webLink}
+          href={link}
           className="bg-dimDark flex rounded-md p-[5px] my-3 "
         >
           <p className=" inline text-[10px] text-stone-100">

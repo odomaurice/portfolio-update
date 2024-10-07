@@ -100,7 +100,7 @@ const Header = () => {
       >
         <div className="flex justify-between  mx-[10px]">
           <div className="flex gap-[50px] text-[16px] items-center select-none">
-            <Link href="/">
+            <Link  onClick={closeMenu} href="/">
               <FaWolfPackBattalion className="w-[40px] h-[40px]" />
             </Link>
           </div>
